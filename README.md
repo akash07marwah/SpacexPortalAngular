@@ -18,9 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 --> Spacex API
 --> News API
-## Images
-![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/1.png?raw=true)
-![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/2.png?raw=true)
-![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/3.png?raw=true)
-
-
+## Images!
+[Screenshot](1.png)
+[Screenshot](2.png)
+[Screenshot](3.png)

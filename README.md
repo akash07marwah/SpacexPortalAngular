@@ -21,6 +21,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Images
 ![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/SpaceX Portal - Google Chrome 11-05-2020 04_54_15.png?raw=true)
 ![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/SpaceX Portal - Google Chrome 11-05-2020 04_54_24.png?raw=true)
-![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/SpaceX Portal - Google Chrome 11-05-2020 04_54_48.png?raw=true)
+![alt text](https://github.com/akashmarwah07/SpacexPortalAngular/blob/master/SpaceX_Portal_-_Google_Chrome_11-05-2020 04_54_48.png?raw=true)
 
 

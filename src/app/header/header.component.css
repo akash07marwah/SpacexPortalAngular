@@ -1,0 +1,40 @@
+.spacer {
+    flex: 1;
+  }
+
+  .toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    color: white;
+    font-weight: 600;
+  }
+  .cntr{
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .toolbar img {
+    margin: 0 16px;
+  }
+  .toolbar .hbtn{
+    border: none;
+    color: white;
+    margin-left: 4rem;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #000000;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+ .toolbar button:hover{
+    background-color: #999595;
+ }

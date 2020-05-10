@@ -1,0 +1,13 @@
+.feed{
+    text-align: center;
+    height: 100%;
+}
+.main{
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.super{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 1rem;
+}

@@ -1,0 +1,25 @@
+.main{
+    margin-top:4rem;
+}
+.super{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 1rem;
+}
+.success{
+    color:green;
+}
+.fail{
+    color:red;
+}
+.failsquare {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
+.successsquare{
+    height: 20px;
+    width: 20px;
+    background-color: green;
+    margin-bottom: 1em;
+}
